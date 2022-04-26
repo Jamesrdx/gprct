@@ -1,7 +1,0 @@
-Este texto es un text de prueba y su unico fin es el ser usado para aprender
-los diferentes comandos que pueden ser usados en git.+
-
-1 Aca vamos a escribir un directorio
-1.1 Recetas de cocina vegetariana
-1.2 Agenda 
-1.3 Lugares que quisiera visitar
