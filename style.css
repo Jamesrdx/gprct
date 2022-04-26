@@ -29,3 +29,13 @@ nav {
     margin-right: 1.5rem;
     list-style: none;
 }
+
+.tittle{
+    display: flex;
+    justify-content: center;
+}
+.tittle p {
+    color: cornsilk;
+    font-size: 3rem;
+
+}
