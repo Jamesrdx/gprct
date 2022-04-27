@@ -39,3 +39,15 @@ nav {
     font-size: 3rem;
 
 }
+
+.footbar{
+    display: flex;
+    justify-self: end;
+}
+.footbar ul {
+    display: flex;
+}
+.footbar ul li{
+    list-style: none;
+    margin-left: 1rem;
+}
